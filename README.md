@@ -1,12 +1,11 @@
 # literature-clock-zh
 
-**灵感来源于 Jaap Meijers 的 [E-reader clock](https://techni.gallery/literaire-klok-trekt-internationaal-aandacht/) 和 [literature-clock](https://github.com/JohannesNE/literature-clock?tab=License-1-ov-file)。本项目致力于收集和展示与时间点相关的中文文学摘抄，内容不限于中国作者，只要摘抄为中文即可。**
+**灵感来源于 Jaap Meijers 的 [E-reader clock](https://techni.gallery/literaire-klok-trekt-internationaal-aandacht/) 和 Johannes Enevoldsen
+的 [literature-clock](https://github.com/JohannesNE/literature-clock?tab=License-1-ov-file)。本项目致力于收集和展示与时间点相关的中文文学摘抄，内容不限于中国作者，只要摘抄为中文即可。**
 
 ## 项目简介
 
 本项目是一个开源的文学时钟项目，其核心思想是将一天中的每一分钟与一句或多句经典的中文文学摘抄关联起来。这些摘抄可能直接提及时间，也可能通过意境、场景等与特定时间概念相呼应。
-
-希望通过这个项目，让文学之美融入日常生活，也为喜爱中文文学的朋友提供一个分享和探索的平台。
 
 ## 数据结构
 
@@ -39,9 +38,7 @@
 
 ## 如何贡献
 
-我们非常欢迎你为本项目贡献中文文学摘抄！你的贡献将帮助我们丰富数据库，让更多人欣赏到文学之美。
-
-请在贡献之前仔细阅读我们的 [贡献指南](CONTRIBUTING.md)。
+请在贡献之前仔细阅读 [贡献指南](CONTRIBUTING.md)。
 
 ## 许可证
 
