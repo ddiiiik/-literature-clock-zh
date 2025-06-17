@@ -1,7 +1,7 @@
-# 文学时钟（中文版）
+# 文学时钟（中文版摘抄）
 
-本项目是 Jaap Meijers 的 [E-reader clock](https://techni.gallery/literaire-klok-trekt-internationaal-aandacht/) 和 Johannes Enevoldsen
-的 [literature-clock](https://github.com/JohannesNE/literature-clock?tab=License-1-ov-file) 的中文版，致力于收集和展示与时间点相关的中文文学摘抄。
+本项目灵感来源于 Jaap Meijers 的 [E-reader clock](https://techni.gallery/literaire-klok-trekt-internationaal-aandacht/) 和 Johannes Enevoldsen
+的 [literature-clock](https://github.com/JohannesNE/literature-clock?tab=License-1-ov-file) ，致力于收集和展示与时分相关的中文文学摘抄。
 
 摘抄内容不限于中国作者，中文即可（当然，若摘抄出自华语作者更佳）。摘抄可直接提及时间，也可通过意境、场景等与特定时间概念相呼应。
 
